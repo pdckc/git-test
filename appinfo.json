@@ -1,0 +1,9 @@
+{
+	"id": "com.mycompany.gittest",
+	"version": "1.0.0",
+	"vendor": "My Company",
+	"type": "web",
+	"main": "index.html",
+	"title": "git-test",
+	"icon": "icon.png"
+}
